@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>4</autn:numhits>
+    <autn:totalhits>10</autn:totalhits>
+    <autn:totaldbdocs>66374</autn:totaldbdocs>
+    <autn:totaldbsecs>66374</autn:totaldbsecs>
+    <autn:hit>
+      <autn:reference>{9001d439-4073-4944-82c3-41c85cb9f445}</autn:reference>
+      <autn:id>4876483</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>FILTER</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Facebook Ads Teens Shouldn&#8217;t See</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{9001d439-4073-4944-82c3-41c85cb9f445}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{61e8fc8d-a33e-4e0d-be34-198a1b835431}</autn:reference>
+      <autn:id>4837882</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>FILTER</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Behind China's Massive Internet Outage</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{61e8fc8d-a33e-4e0d-be34-198a1b835431}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{2da9d480-4d46-435c-bf99-a675fef0f30a}</autn:reference>
+      <autn:id>4613048</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>FILTER</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Report Finds 20% of Yelp Reviews Are Fake</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{2da9d480-4d46-435c-bf99-a675fef0f30a}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{82d1b523-15f4-4b1b-b328-ce1e8301f474}</autn:reference>
+      <autn:id>4594743</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>FILTER</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Will an IPO Ruin Twitter?</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{82d1b523-15f4-4b1b-b328-ce1e8301f474}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&text=Filters&mindate=04/05/2013&sort=dociddecreasing&fieldtext=MATCH{internet}:MKTW-INDUSTRY&maxresults=4&databasematch=105,115,125,128,467&minscore=30&print=fields&printfields=guid&totalresults=true-->

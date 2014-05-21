@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-response xmlns="http://dowjones.net/dnsa" xmlns:djsrch="http://dowjones.net/djsearch">
+  <info>
+    <hits>
+      <matching-docs-estimate>5</matching-docs-estimate>
+      <matching-docs-returned>4</matching-docs-returned>
+    </hits>
+  </info>
+  <results>
+    <result>
+      <metadata>
+        <djsrch:guid>78723F9F-D9FC-4E40-B11F-9AD5D5976C28</djsrch:guid>
+      </metadata>
+      <display-date date="2014-03-21" gmt-offset="-4:00" time="20:00:00" time-zone="America/New_York">2014-03-21T20:00:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>51B47B3D-4D01-407C-9DAB-67B0E2B4737B</djsrch:guid>
+      </metadata>
+      <display-date date="2014-02-28" gmt-offset="-5:00" time="18:04:00" time-zone="America/New_York">2014-02-28T18:04:00-05:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>DB5629A7-72C7-4F2D-A936-9406C933E78D</djsrch:guid>
+      </metadata>
+      <display-date date="2013-08-16" gmt-offset="-4:00" time="13:01:00" time-zone="America/New_York">2013-08-16T13:01:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>ABA63CEC-A833-4552-8779-25FF1D906D6C</djsrch:guid>
+      </metadata>
+      <display-date date="2013-08-09" gmt-offset="-4:00" time="18:10:00" time-zone="America/New_York">2013-08-09T18:10:00-04:00</display-date>
+    </result>
+  </results>
+</search-response>
+<!-- host: sbkj2ksrchapps02, request-id: 81697, timestamp: 2014/05/14-09:30:30, duration: 61ms -->
+<!--http://sbkj2ksrchsvc1.wsjqa.dowjones.net:19080/wuss/dnsa/v1/rest/search/ComparisonTest?language=en&query=("Alcoholic+Beverages"+OR+(Alcoholic+Beverages))+AND+(mktw-issue-value:="general")&min-date=2013/05/04&database=mw/105,mw/115,mw/125,mw/128,mw/467&sort=date-desc&count=4&return-fields=guid-->

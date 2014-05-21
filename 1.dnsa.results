@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-response xmlns="http://dowjones.net/dnsa" xmlns:djsrch="http://dowjones.net/djsearch">
+  <info>
+    <hits>
+      <matching-docs-estimate>0</matching-docs-estimate>
+      <matching-docs-returned>0</matching-docs-returned>
+    </hits>
+  </info>
+  <results/>
+</search-response>
+<!-- host: sbkj2ksrchapps01, request-id: 81462, timestamp: 2014/05/14-09:30:27, duration: 847ms -->
+<!--http://sbkj2ksrchsvc1.wsjqa.dowjones.net:19080/wuss/dnsa/v1/rest/search/ComparisonTest?language=en&query=(Rice)+AND+(mktw-issue-value:="us")&min-date=2013/05/04&database=mw/53,mw/90,mw/91,mw/92,mw/103,mw/105,mw/107,mw/110,mw/281,mw/461,mw/485,mw/495,mw/496&sort=date-desc&count=15&return-fields=guid-->

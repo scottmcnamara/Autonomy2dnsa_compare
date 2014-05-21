@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>0</autn:numhits>
+    <autn:totalhits>0</autn:totalhits>
+    <autn:totaldbdocs>1550798</autn:totaldbdocs>
+    <autn:totaldbsecs>1550798</autn:totaldbsecs>
+    <autn:warning>At least one of the databases provided in the query does not exist</autn:warning>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&text=Rice&mindate=04/05/2013&sort=dociddecreasing&fieldtext=MATCH{us}:MKTW-ISSUE&maxresults=15&databasematch=53,90,91,92,103,105,107,110,281,461,485,495,496&minscore=60&print=fields&printfields=guid&totalresults=true-->

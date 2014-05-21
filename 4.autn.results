@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>4</autn:numhits>
+    <autn:totalhits>23</autn:totalhits>
+    <autn:totaldbdocs>66374</autn:totaldbdocs>
+    <autn:totaldbsecs>66374</autn:totaldbsecs>
+    <autn:hit>
+      <autn:reference>{ca97c1e4-e736-45d3-9377-2a3a512f4ddc}</autn:reference>
+      <autn:id>5017522</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>53.08</autn:weight>
+      <autn:links>GAME</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Time 100 Honoree Inspires Africa's Young Women</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{ca97c1e4-e736-45d3-9377-2a3a512f4ddc}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{2f3217f2-5148-43bd-8f0f-df2eb25c64e8}</autn:reference>
+      <autn:id>4997604</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>53.08</autn:weight>
+      <autn:links>GAME</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>New Winners and Losers Emerge in U.S. Shale Boom</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{2f3217f2-5148-43bd-8f0f-df2eb25c64e8}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{3ad61cda-6ee1-4ebb-91b9-789c23bc8063}</autn:reference>
+      <autn:id>4895584</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>53.08</autn:weight>
+      <autn:links>VIDEO</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Why Sad Facebook Posts Are Bringing You Down</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{3ad61cda-6ee1-4ebb-91b9-789c23bc8063}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{a9f8a01f-8e23-4b4c-83cf-bc45ff979df4}</autn:reference>
+      <autn:id>4892173</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>53.08</autn:weight>
+      <autn:links>GAME</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Razer Debuts World's Thinnest Gaming Laptop</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{a9f8a01f-8e23-4b4c-83cf-bc45ff979df4}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&text="Computer+and+Video+Games"[*20]+OR+(Computer+and+Video+Games)[*10]&mindate=04/05/2013&sort=dociddecreasing&fieldtext=MATCH{markets/exchanges}:MKTW-ISSUE&maxresults=4&databasematch=105,115,125,128,467&minscore=30&print=fields&printfields=guid&totalresults=true-->

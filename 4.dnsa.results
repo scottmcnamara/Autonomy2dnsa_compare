@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-response xmlns="http://dowjones.net/dnsa" xmlns:djsrch="http://dowjones.net/djsearch">
+  <info>
+    <hits>
+      <matching-docs-estimate>0</matching-docs-estimate>
+      <matching-docs-returned>0</matching-docs-returned>
+    </hits>
+  </info>
+  <results/>
+</search-response>
+<!-- host: sbkj2ksrchapps02, request-id: 81694, timestamp: 2014/05/14-09:30:29, duration: 730ms -->
+<!--http://sbkj2ksrchsvc1.wsjqa.dowjones.net:19080/wuss/dnsa/v1/rest/search/ComparisonTest?language=en&query=("Computer+and+Video+Games"+OR+(Computer+and+Video+Games))+AND+(mktw-issue-value:="markets/exchanges")&min-date=2013/05/04&database=mw/105,mw/115,mw/125,mw/128,mw/467&sort=date-desc&count=4&return-fields=guid-->

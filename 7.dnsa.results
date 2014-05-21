@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-response xmlns="http://dowjones.net/dnsa" xmlns:djsrch="http://dowjones.net/djsearch">
+  <info>
+    <hits>
+      <matching-docs-estimate>5</matching-docs-estimate>
+      <matching-docs-returned>5</matching-docs-returned>
+    </hits>
+  </info>
+  <results>
+    <result>
+      <metadata>
+        <djsrch:guid>7B528C9C-CCB1-11E3-B083-00212803FAD6</djsrch:guid>
+      </metadata>
+      <display-date date="2014-04-25" gmt-offset="-4:00" time="15:58:00" time-zone="America/New_York">2014-04-25T15:58:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>9D847783-7A63-4476-9847-39D1136F05F6</djsrch:guid>
+      </metadata>
+      <display-date date="2014-04-04" gmt-offset="-4:00" time="12:01:00" time-zone="America/New_York">2014-04-04T12:01:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>A4209348-D9E2-11E2-91D1-002128040CF6</djsrch:guid>
+      </metadata>
+      <display-date date="2013-06-21" gmt-offset="-4:00" time="07:00:00" time-zone="America/New_York">2013-06-21T07:00:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>87AE19B2-D9D6-11E2-91D1-002128040CF6</djsrch:guid>
+      </metadata>
+      <display-date date="2013-06-20" gmt-offset="-4:00" time="14:44:00" time-zone="America/New_York">2013-06-20T14:44:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>75155E28-C18F-11E2-BA61-002128040CF6</djsrch:guid>
+      </metadata>
+      <display-date date="2013-05-21" gmt-offset="-4:00" time="08:33:00" time-zone="America/New_York">2013-05-21T08:33:00-04:00</display-date>
+    </result>
+  </results>
+</search-response>
+<!-- host: sbkj2ksrchapps01, request-id: 81468, timestamp: 2014/05/14-09:30:30, duration: 58ms -->
+<!--http://sbkj2ksrchsvc1.wsjqa.dowjones.net:19080/wuss/dnsa/v1/rest/search/ComparisonTest?language=en&query=(Filters)+AND+(mktw-industry-value:="internet")&min-date=2013/05/04&database=mw/53,mw/90,mw/91,mw/92,mw/103,mw/105,mw/107,mw/110,mw/281,mw/461,mw/485,mw/495,mw/496&sort=date-desc&count=15&return-fields=guid-->

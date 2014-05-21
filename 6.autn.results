@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>4</autn:numhits>
+    <autn:totalhits>110</autn:totalhits>
+    <autn:totaldbdocs>66374</autn:totaldbdocs>
+    <autn:totaldbsecs>66374</autn:totaldbsecs>
+    <autn:hit>
+      <autn:reference>{1d355402-9466-459c-87e3-5a97da6aff2a}</autn:reference>
+      <autn:id>5052025</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>61.21</autn:weight>
+      <autn:links>ALCOHOL</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>NFL Draft 2014: Which Teams Have the Most at Stake?</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{1d355402-9466-459c-87e3-5a97da6aff2a}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{1f7a3a27-63f7-4dbd-9ccc-36bb2acfad3f}</autn:reference>
+      <autn:id>5051313</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>ALCOHOL,BEVERAG</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Weekend Sip: Craft Sake, Made in America</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{1f7a3a27-63f7-4dbd-9ccc-36bb2acfad3f}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{674b835a-06ac-4bf0-a927-ede6099e10ed}</autn:reference>
+      <autn:id>5044282</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>ALCOHOL,BEVERAG</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>More Hard Cider Means Less Cider Apples</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{674b835a-06ac-4bf0-a927-ede6099e10ed}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+    <autn:hit>
+      <autn:reference>{002b084f-22b8-41f9-ad9d-a2c01ddad804}</autn:reference>
+      <autn:id>5033661</autn:id>
+      <autn:section>0</autn:section>
+      <autn:weight>100.00</autn:weight>
+      <autn:links>ALCOHOL,BEVERAG</autn:links>
+      <autn:database>115</autn:database>
+      <autn:title>Tequila: Sip, Don&#8217;t Shoot</autn:title>
+      <autn:content>
+        <NEWSITEM>
+          <GUID>{002b084f-22b8-41f9-ad9d-a2c01ddad804}</GUID>
+        </NEWSITEM>
+      </autn:content>
+    </autn:hit>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&text="Alcoholic+Beverages"[*20]+OR+(Alcoholic+Beverages)[*10]&mindate=04/05/2013&sort=dociddecreasing&fieldtext=MATCH{general}:MKTW-ISSUE&maxresults=4&databasematch=105,115,125,128,467&minscore=30&print=fields&printfields=guid&totalresults=true-->

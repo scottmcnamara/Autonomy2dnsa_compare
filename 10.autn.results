@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>0</autn:numhits>
+    <autn:totalhits>0</autn:totalhits>
+    <autn:totaldbdocs>108769</autn:totaldbdocs>
+    <autn:totaldbsecs>108769</autn:totaldbsecs>
+    <autn:warning>At least one of the databases provided in the query does not exist</autn:warning>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&Text=nilkamal+limited&DatabaseMatch=31,105,107,109,114,115,116,124,125,126,127,128,462,463,467,30028,30124,30125&maxdate=04/05/2014&matchallterms=true&MaxResults=1&OutputEncoding=UTF8&sort=date&print=fields&printfields=guid&totalresults=true-->

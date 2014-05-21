@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<autnresponse xmlns:autn="http://schemas.autonomy.com/aci/">
+  <action>QUERY</action>
+  <response>SUCCESS</response>
+  <responsedata>
+    <autn:numhits>0</autn:numhits>
+    <autn:totalhits>0</autn:totalhits>
+    <autn:totaldbdocs>66374</autn:totaldbdocs>
+    <autn:totaldbsecs>66374</autn:totaldbsecs>
+  </responsedata>
+</autnresponse>
+<!--http://stg-search1.production.bigcharts.com:9000/?action=query&text=Rice&mindate=04/05/2013&sort=dociddecreasing&fieldtext=MATCH{us}:MKTW-ISSUE&maxresults=4&databasematch=105,115,125,128,467&minscore=30&print=fields&printfields=guid&totalresults=true-->

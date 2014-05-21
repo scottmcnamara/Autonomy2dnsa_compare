@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search-response xmlns="http://dowjones.net/dnsa" xmlns:djsrch="http://dowjones.net/djsearch">
+  <info>
+    <hits>
+      <matching-docs-estimate>7</matching-docs-estimate>
+      <matching-docs-returned>4</matching-docs-returned>
+    </hits>
+  </info>
+  <results>
+    <result>
+      <metadata>
+        <djsrch:guid>9001D439-4073-4944-82C3-41C85CB9F445</djsrch:guid>
+      </metadata>
+      <display-date date="2014-02-28" gmt-offset="-5:00" time="15:15:00" time-zone="America/New_York">2014-02-28T15:15:00-05:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>61E8FC8D-A33E-4E0D-BE34-198A1B835431</djsrch:guid>
+      </metadata>
+      <display-date date="2014-01-22" gmt-offset="-5:00" time="01:41:00" time-zone="America/New_York">2014-01-22T01:41:00-05:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>2DA9D480-4D46-435C-BF99-A675FEF0F30A</djsrch:guid>
+      </metadata>
+      <display-date date="2013-09-24" gmt-offset="-4:00" time="18:02:00" time-zone="America/New_York">2013-09-24T18:02:00-04:00</display-date>
+    </result>
+    <result>
+      <metadata>
+        <djsrch:guid>11DC40FE-BB42-4E0B-80B9-53752875BEE6</djsrch:guid>
+      </metadata>
+      <display-date date="2013-06-25" gmt-offset="-4:00" time="13:06:00" time-zone="America/New_York">2013-06-25T13:06:00-04:00</display-date>
+    </result>
+  </results>
+</search-response>
+<!-- host: sbkj2ksrchapps02, request-id: 81698, timestamp: 2014/05/14-09:30:30, duration: 55ms -->
+<!--http://sbkj2ksrchsvc1.wsjqa.dowjones.net:19080/wuss/dnsa/v1/rest/search/ComparisonTest?language=en&query=(Filters)+AND+(mktw-industry-value:="internet")&min-date=2013/05/04&database=mw/105,mw/115,mw/125,mw/128,mw/467&sort=date-desc&count=4&return-fields=guid-->
