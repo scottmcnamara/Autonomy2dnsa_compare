@@ -17,6 +17,7 @@ Generated files:
 */
 
 //
+//
 $autn_query_log = StringNotEmpty($argv[1]) ? $argv[1] : "";
 $count_to_process = intval($argv[2])!=0 ? $argv[2] : 0;
 
